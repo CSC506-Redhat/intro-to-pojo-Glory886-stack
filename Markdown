@@ -1,0 +1,2 @@
+# what I learnt and what I'm still confused about 
+### I learned git basic functionalities but still confused about pull request and fork 
